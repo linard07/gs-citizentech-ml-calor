@@ -1,7 +1,7 @@
 # RELATORIO_ML — CitizenTech: alerta de calor extremo em São Paulo
 
 **Grupo:** Guilherme Linard (RM 555768), Lucas Vasquez (RM 555159) e Ali Andrea (RM 558052) — Turma 3ESPZ — FIAP
-**Repositório:** [colar link do GitHub] · **Vídeo:** [colar link do YouTube não listado]
+· **Vídeo:** https://youtu.be/kYy0NSXaVIQ
 
 ## 1. Problema e dados reais
 
